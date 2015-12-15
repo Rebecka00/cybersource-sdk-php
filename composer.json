@@ -27,4 +27,7 @@
     "classmap": ["lib/"]
   },
   "include-path": ["lib/conf/"]
+  "require": {
+"cybersource/sdk-php": "*"
+},
 }
